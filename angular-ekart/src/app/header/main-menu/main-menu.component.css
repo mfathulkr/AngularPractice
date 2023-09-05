@@ -1,0 +1,16 @@
+.ekart--bottom--bar {
+    display: flex;
+    align-items: center;
+}
+
+.ekart-menu a {
+    margin: 0 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.ekart-menu a:hover {
+    color: #61dafb;
+}

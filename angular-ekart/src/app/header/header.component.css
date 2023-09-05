@@ -1,0 +1,22 @@
+.ekart--header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5572e7;
+  color: white;
+  padding: 20px;
+} 
+
+.ekart-logo {
+  padding: 1.2vh 8vh;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Concert One', cursive;
+  width: 20%;
+}
+
+.ekart--header--nav {
+  width: 80%;
+  padding: 1vh 6vh;
+  font-size: 18px;
+}
